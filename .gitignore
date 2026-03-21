@@ -215,8 +215,4 @@ tmp_capstone_data/
 
 *.parquet
 *.csv
-*.png  
-*.jpg
-*.jpeg
-*.gif
 *.webp
